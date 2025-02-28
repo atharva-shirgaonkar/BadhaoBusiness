@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27.6048mm" height="26.3389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 840 801"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="376.807" y1="134.051" x2="693.428" y2="667.39">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FECC00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EF7E1A"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="42.7668" y1="158.233" x2="566.929" y2="643.209">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4989C8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#393185"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1376849103600">
+   <path class="fil0" d="M685 390c45,9 82,31 111,68 29,37 44,79 44,126 0,43 -11,81 -32,114 -21,32 -51,58 -91,76 -40,18 -87,27 -141,27l-346 0 0 -801 331 0c54,0 101,9 141,26 39,18 69,43 89,74 20,31 31,67 31,107 0,46 -13,85 -38,117 -25,31 -58,53 -99,66z"/>
+   <path class="fil1" d="M483 390c50,9 90,31 122,68 32,37 48,79 48,126 0,43 -11,81 -35,114 -23,32 -56,58 -100,76 -43,18 -95,27 -155,27l-363 0 0 -801 347 0c59,0 111,9 154,26 44,18 76,43 99,74 22,31 33,67 33,107 0,46 -14,85 -41,117 -27,31 -64,53 -109,66z"/>
+   <path class="fil2" d="M455 390c45,9 82,31 111,68 29,37 44,79 44,126 0,43 -11,81 -32,114 -21,32 -51,58 -91,76 -40,18 -87,27 -141,27l-346 0 0 -801 331 0c54,0 101,9 140,26 40,18 70,43 90,74 20,31 30,67 30,107 0,46 -12,85 -37,117 -25,31 -58,53 -99,66z"/>
+   <rect class="fil1" x="57" y="51" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="57" y="696" width="66.811" height="105.542"/>
+   <rect class="fil1" x="115" y="51" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="172" y="51" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="230" y="51" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="57" y="169" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="115" y="169" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="172" y="169" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="57" y="287" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="115" y="287" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="172" y="287" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="57" y="405" width="36.2436" height="71.7834"/>
+   <rect class="fil1" x="115" y="405" width="36.2436" height="71.7834"/>
+  </g>
+ </g>
+</svg>
